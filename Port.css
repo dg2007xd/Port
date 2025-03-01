@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Markazi+Text:wght@400..700&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+.simple-radial {
+    background: radial-gradient(#092041, #1C1D1C);
+    height: 100%;
+}
+
+.importante {
+    color: white;
+    font-size: 52px;
+    letter-spacing: 2px;
+    font-family: "Bebas Neue", serif;
+}
+.carpet{
+    max-height: 20px;
+}
