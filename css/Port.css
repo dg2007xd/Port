@@ -14,9 +14,12 @@
 .carpet{
     max-height: 20px;
 }
-.tarjeta{
+.card{
     overflow: hidden;
 }
-.tarjeta img{
+.card img{
     transition: all 0.5s ease-in-out;
+}
+.card:hover img {
+    transform: scale(1.2, 1.2);
 }
