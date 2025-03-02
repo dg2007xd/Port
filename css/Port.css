@@ -14,9 +14,9 @@
 .carpet{
     max-height: 20px;
 }
-.card{
+.tarjeta{
     overflow: hidden;
 }
-.card img{
+.tarjeta img{
     transition: all 0.5s ease-in-out;
 }
